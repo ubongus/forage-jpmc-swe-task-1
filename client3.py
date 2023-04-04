@@ -46,7 +46,7 @@ def getRatio(price_a, price_b):
     return ratio
 
 
-# Main b
+# Main
 if __name__ == "__main__":
     # Query the price once every N seconds.
     for _ in iter(range(N)):
